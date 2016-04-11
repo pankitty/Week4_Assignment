@@ -1,7 +1,0 @@
-1. store source data into folder: /data/activity/UCI HAR Dataset
-2. load test and tarining data into "test" and "training"
-3. row bind test and training data into "DF"
-4. bind Label, Subject and DF into DF_final
-5. Uses descriptive activity names to names the activities in the data set.
-6. Create a tidy data with average of each variable for each activity and subject, "tidy_DF".
-7. Save data into tidydata.txt
